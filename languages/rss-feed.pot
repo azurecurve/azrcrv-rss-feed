@@ -33,9 +33,9 @@ msgstr ""
 
 #: azrcrv-rss-feed.php:127
 msgid ""
-"<p>This plugin provides opposite rss feed to that configured in WordPress; e."
-"g. if WordPress is configured for summary then an alternative feed called "
-"detail will be created, or if WordPress is configured for a detailed feed "
+"<p>This plugin provides opposite rss feed to that configured in ClassicPress; e."
+"g. if ClassicPress is configured for summary then an alternative feed called "
+"detail will be created, or if ClassicPress is configured for a detailed feed "
 "then an alternative feed called summary is created.</p>\n"
 "\n"
 "\t\t<p>Once active, both summary and detail feeds cab be access using the "

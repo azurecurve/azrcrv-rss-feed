@@ -124,7 +124,7 @@ function azrcrv_rssf_settings(){
 	<div id="azrcrv-rssf-general" class="wrap">
 		<h2><?php echo esc_html(get_admin_page_title()); ?></h2>
 
-		<?php esc_html_e('<p>This plugin provides opposite rss feed to that configured in WordPress; e.g. if WordPress is configured for summary then an alternative feed called detail will be created, or if WordPress is configured for a detailed feed then an alternative feed called summary is created.</p>
+		<?php esc_html_e('<p>This plugin provides opposite rss feed to that configured in ClassicPress; e.g. if ClassicPress is configured for summary then an alternative feed called detail will be created, or if ClassicPress is configured for a detailed feed then an alternative feed called summary is created.</p>
 
 		<p>Once active, both summary and detail feeds cab be access using the following paths:', 'rss-feed');
 
