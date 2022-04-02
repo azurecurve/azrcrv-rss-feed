@@ -1,43 +1,42 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RSS Feed\n"
-"POT-Creation-Date: 2019-02-24 18:38+0000\n"
+"POT-Creation-Date: 2021-12-27 18:13+0000\n"
 "PO-Revision-Date: 2019-02-24 18:38+0000\n"
 "Last-Translator: \n"
-"Language-Team: https://translate.azurecurve.co.uk/\n"
+"Language-Team: translate@azurecurve.co.uk\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
-"X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
 "X-Poedit-SearchPath-0: azrcrv-rss-feed.php\n"
 
-#: azrcrv-rss-feed.php:86
+#: azrcrv-rss-feed.php:130
 msgid "Settings"
 msgstr ""
 
-#: azrcrv-rss-feed.php:103
+#: azrcrv-rss-feed.php:147
 msgid "RSS Feed Settings"
 msgstr ""
 
-#: azrcrv-rss-feed.php:104
+#: azrcrv-rss-feed.php:148
 msgid "RSS Feed"
 msgstr ""
 
-#: azrcrv-rss-feed.php:118
+#: azrcrv-rss-feed.php:162
 msgid "You do not have sufficient permissions to access this page."
 msgstr ""
 
-#: azrcrv-rss-feed.php:127
+#: azrcrv-rss-feed.php:176
 msgid ""
-"<p>This plugin provides opposite rss feed to that configured in ClassicPress; e."
-"g. if ClassicPress is configured for summary then an alternative feed called "
+"This plugin provides opposite rss feed to that configured in ClassicPress; e.g. "
+"if ClassicPress is configured for summary then an alternative feed called "
 "detail will be created, or if ClassicPress is configured for a detailed feed "
-"then an alternative feed called summary is created.</p>\n"
-"\n"
-"\t\t<p>Once active, both summary and detail feeds cab be access using the "
-"following paths:"
+"then an alternative feed called summary is created. Once active, both summary "
+"and detail feeds can be access using the following paths:"
 msgstr ""
